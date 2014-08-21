@@ -14,8 +14,8 @@ if exists("syntax_on")
 endif
 let g:colors_name="256_darkdot"
 
-hi Normal	
-hi Cursor	
+"hi Normal
+"hi Cursor
 hi link CursorIM Cursor
 hi Directory								ctermfg=12	
 hi DiffAdd					ctermbg=18		ctermfg=11	
